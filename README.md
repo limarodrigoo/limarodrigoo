@@ -21,7 +21,7 @@ Be a developer!
 Javascript, React, HTML, CSS
 
 
-## Other Common Github Profile Sections
+## 
 👩‍💻 I'm currently studying on [Trybe](https://github.com/betrybe)
 
 🧠 I'm currently learning **JavaScript, HTML, CSS, React, NodeJS**
