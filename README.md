@@ -9,7 +9,16 @@
 <p>Now, here I am, chasing another dream that I have since doing my final paper: become a developer!</p>
 
 
+
 ## 🛠 Skills
+
+<div>
+  <a href="https://github.com/xafixav">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limarodrigoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limarodrigoo&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
