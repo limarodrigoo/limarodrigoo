@@ -32,12 +32,11 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 
 👩‍💻 I'm currently studying on [Trybe](https://github.com/betrybe)
 
-🧠 I'm currently learning **JavaScript, Java , HTML, CSS, React, NodeJS**
+🧠 I'm currently learning **JavaScript, Go , HTML, CSS, React, NodeJS**
 
 
 
