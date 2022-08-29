@@ -13,7 +13,7 @@
 ## 🛠 Skills
 
 <div>
-  <a href="https://github.com/xafixav">
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=limarodrigoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limarodrigoo&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -37,7 +37,7 @@
 ## 
 👩‍💻 I'm currently studying on [Trybe](https://github.com/betrybe)
 
-🧠 I'm currently learning **JavaScript, Go , HTML, CSS, React, NodeJS**
+🧠 I'm currently learning **Python** and **Java**
 
 
 
